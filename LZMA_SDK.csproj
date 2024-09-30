@@ -13,6 +13,7 @@
 All source code is copyright of Igor Pavlov.</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>7z_rm01.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/Mateusz-Nejman/LZMA_SDK</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
