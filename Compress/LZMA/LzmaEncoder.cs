@@ -1269,7 +1269,7 @@ namespace SevenZip.Compression.LZMA
 
 
         public void Code(System.IO.Stream inStream, System.IO.Stream outStream,
-            Int64 inSize, Int64 outSize, ICodeProgress progress)
+            Int64 inSize, Int64 outSize, ICodeProgress? progress)
         {
             _needReleaseMFStream = false;
             try

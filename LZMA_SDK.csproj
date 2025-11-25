@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <PackageId>MateuszNejman.LZMA_SDK</PackageId>
     <Title>LZMA SDK</Title>
-    <Version>24.08</Version>
+    <Version>24.09</Version>
     <Authors>Mateusz Nejman</Authors>
     <Description>This SDK is packaged as is from www.7-zip.org.
 
